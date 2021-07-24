@@ -1,7 +1,7 @@
 {
   "development": {
-    "username": "OmarQazi",
-    "password": "<mysqlserver0000>",
+    "username": "dev",
+    "password": "00000000",
     "database": "classed_tutorial",
     "host": "127.0.0.1",
     "dialect": "mysql"
